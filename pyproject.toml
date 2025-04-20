@@ -1,0 +1,11 @@
+[project]
+name = "marinecadastre-convert"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fiona>=1.10.1",
+    "geopandas>=1.0.1",
+    "pyarrow>=19.0.1",
+]
